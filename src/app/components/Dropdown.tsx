@@ -19,7 +19,7 @@ const InputWrapper = styled.div`
 `
 
 const StyledSelect = styled.select`
-  border: 2px solid palevioletred;
+  border: 2px solid gray;
   margin: 2px;
   padding: 2px;
   border-radius: 3px;
